@@ -189,6 +189,33 @@ CartaOnline/
 - ✅ **Visualización de carta por empresa (25%)**: URLs públicas independientes
 - ✅ **Buenas prácticas, validaciones y diseño UI (25%)**: Validaciones, Material Design, estructura modular
 
+## 📸 Capturas de Pantalla
+
+### Panel de Administración
+
+#### CRUD de Empresas
+![CRUD de Empresas](screenshots/CRUD%20de%20Empresas.png)
+
+#### CRUD de Categorías
+![CRUD de Categorías](screenshots/CRUD%20de%20Categorías.png)
+
+#### CRUD de Productos
+![CRUD de Productos](screenshots/CRUD%20de%20Productos.png)
+
+### Cartas Públicas
+
+#### Carta Pública Empresa 1 - Rotisería El Buen Sabor
+![Carta Pública Empresa 1](screenshots/Carta%20Pública%20Empresa%201.png)
+
+#### Carta Pública Empresa 2 - Restaurante La Parrilla
+![Carta Pública Empresa 2](screenshots/Carta%20Pública%20Empresa%202.png)
+
+#### Carta Pública Empresa 3 - Sushi Delivery
+![Carta Pública Empresa 3](screenshots/Carta%20Pública%20Empresa%203.png)
+
+#### Carta Pública Empresa 4 - Cafetería Express
+![Carta Pública Empresa 4](screenshots/Carta%20Pública%20Empresa%204.png)
+
 ## 📝 Notas Adicionales
 
 - El sistema incluye validaciones tanto en frontend como backend
